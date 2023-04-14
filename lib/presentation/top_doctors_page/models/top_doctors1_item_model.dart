@@ -1,0 +1,1 @@
+class TopDoctors1ItemModel { }
