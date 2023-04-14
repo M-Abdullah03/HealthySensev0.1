@@ -2,9 +2,9 @@
 # healthysense
   A doctor patient appointment system being developed using the complete SDLC
   
-  Requirements Phase- Completed (Relevant documents in the docs folder)
-  Design Phase- Completed (Figma Prototypes in the docs folder)
-  Development Phase- Ongoing
+  Requirements Phase- Completed (Relevant documents in the docs folder) <br>
+  Design Phase- Completed (Figma Prototypes in the docs folder) <br>
+  Development Phase- Ongoing <br>
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
