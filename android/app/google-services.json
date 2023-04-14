@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038293285755",
+    "project_id": "healthysense-v1-0",
+    "storage_bucket": "healthysense-v1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038293285755:android:6ccb3ff4208bd59a68dbde",
+        "android_client_info": {
+          "package_name": "com.healthysensev.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038293285755-keisb4cdu625hjbsb5cgejn9hu94e0rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnd5howviYUOQTVmesMHayJC7IRaNsaTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038293285755-keisb4cdu625hjbsb5cgejn9hu94e0rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
